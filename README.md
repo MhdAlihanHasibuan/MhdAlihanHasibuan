@@ -1,13 +1,6 @@
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 <h1 align="center">Hi 👋, I'ma MHD ALIHAN HASIBUAN</h1>
-## About me:
-- 🔭 I’m currently working at [Huawei](https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent)
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Analyst
-- 🤔 I’m looking for suggest for Automation and Data Analyst
-- 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
-
-
 <h3 align="center">A passionate developer from Indonesia</h3>
 
 <h3 align="left">Connect with me:</h3>
