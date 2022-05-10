@@ -1,3 +1,12 @@
+# Hi there, I'm Vincent - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+## About me:
+- 🔭 I’m currently working at [Huawei](https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent)
+- 🌱 I’m currently learning Python and Javascript
+- 👯 I’m looking to collaborate as Data Analyst
+- 🤔 I’m looking for suggest for Automation and Data Analyst
+- 💬 Ask me about anything
+- 📫 How to reach me: vincentwidyan@gmail.com
+
 <h1 align="center">Hi 👋, I'ma MHD ALIHAN HASIBUAN</h1>
 <h3 align="center">A passionate developer from Indonesia</h3>
 
